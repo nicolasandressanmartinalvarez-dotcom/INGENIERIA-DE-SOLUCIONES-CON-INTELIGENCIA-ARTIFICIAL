@@ -1,6 +1,6 @@
 # INGENIERIA-DE-SOLUCIONES-CON-INTELIGENCIA-ARTIFICIAL
 Asistente RAG para Consejería Académica - Duoc UC
-## Stack Tecnológico
+## Informacion Tecnológica
 * **Orquestación:** LangChain / LangChain Community.
 * **Modelo de Lenguaje (LLM):** Google GenAI (`gemini-3.6-flash`).
 * **Embeddings:** HuggingFace (`all-MiniLM-L6-v2`) para procesamiento vectorial local.
